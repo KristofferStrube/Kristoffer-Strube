@@ -1,5 +1,5 @@
 # Kristoffer Strube
-I'm currently toying with different ways to use SVG elements in Blazor WASM/WebAssembly
+I'm currently toying with how import/export for modules work in Blazor WASM/WebAssembly
 
 ## Contact
 Twitter :baby_chick:: [@KStrubeG](https://twitter.com/KStrubeG)
