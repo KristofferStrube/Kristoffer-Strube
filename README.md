@@ -1,5 +1,5 @@
 # Kristoffer Strube
-I'm currently toying with how import/export for modules work in Blazor WASM/WebAssembly
+Doing Advent of Code this December 😃 [kristofferstrube.github.io/AoC2020Blazor](https://kristofferstrube.github.io/AoC2020Blazor/)
 
 ## Contact
 Twitter :baby_chick:: [@KStrubeG](https://twitter.com/KStrubeG)
