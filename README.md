@@ -1,5 +1,5 @@
 # Kristoffer Strube
-Doing Advent of Code this December 😃 [kristofferstrube.github.io/AoC2020Blazor](https://kristofferstrube.github.io/AoC2020Blazor/)
+I'm currently experimenting with doing GPU accelerated matrix multiplication in Blazor WebAssembly using WebGL.
 
 ## Contact
 Twitter :baby_chick:: [@KStrubeG](https://twitter.com/KStrubeG)
