@@ -1,5 +1,5 @@
 # Kristoffer Strube
-I'm currently experimenting with doing GPU accelerated matrix multiplication in Blazor WebAssembly using WebGL.
+I'm currently working on ways to use Blazor WASM for more diverse tasks that are else reserved to the use of the JSInterop.
 
 ## Contact
 Twitter :baby_chick:: [@KStrubeG](https://twitter.com/KStrubeG)
