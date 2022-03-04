@@ -1,5 +1,5 @@
 # Kristoffer Strube
-I'm currently working on ways to use Blazor WASM for more diverse tasks that are else reserved to the use of the JSInterop.
+I'm currently working on ways to use Blazor WASM for working with the browser with ease and safely.
 
 ## Contact
 Twitter :baby_chick:: [@KStrubeG](https://twitter.com/KStrubeG)
