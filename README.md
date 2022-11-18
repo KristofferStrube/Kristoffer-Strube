@@ -6,4 +6,4 @@ Twitter :baby_chick:: [@KStrubeG](https://twitter.com/KStrubeG)
 
 LinkedIn :necktie:: [KristofferStrube](https://www.linkedin.com/in/kristofferstrube/)
 
-Mastodon :elephant:: [@KristofferStrube](https://hachyderm.io/@KristofferStrube)
+Mastodon :elephant:: <a rel="me" href="https://hachyderm.io/@KristofferStrube">@KristofferStrube</a>
