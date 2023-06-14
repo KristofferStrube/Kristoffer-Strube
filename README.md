@@ -1,6 +1,8 @@
 # Kristoffer Strube
 I'm currently working on ways to use Blazor WASM for working with the browser with ease and safely.
 
+Right now, I'm focusing on wrapping the Web Audio API and its sorounding API's in my [Blazor.WebAudio](https://github.com/KristofferStrube/Blazor.WebAudio) and [Blazor.MediaCaptureStreams](https://github.com/KristofferStrube/Blazor.MediaCaptureStreams) projects.
+
 My Blog: https://kristoffer-strube.dk
 
 ## Contact
